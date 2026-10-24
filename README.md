@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Vincent (surname omitted)</h1><br><h3 align="center">A random guy who happens to be an CS undergraduate. Interested in software engineering, full-stack web development (specifically backend development), and data science.</h3><br><p align="left"> <img src="https://komarev.com/ghpvc/?username=vincentwu503&label=Profile%20views&color=0e75b6&style=flat" alt="vincentwu503" /> </p><br>- Check out my portfolio website <a href="https://vincentwu503.github.io">here</a>.<br><br>- I’m currently learning **MongoDB Associate Developer Node.js Exam, and probably Golang in the future.**
+<h1 align="center">Hi 👋, I'm Vincent (surname omitted)</h1><br><h3 align="center">A random guy who happens to be an CS undergraduate. Interested in software engineering, full-stack web development (specifically backend development), and data science.</h3><br><p align="left"> <img src="https://komarev.com/ghpvc/?username=vincentwu503&label=Profile%20views&color=0e75b6&style=flat" alt="vincentwu503" /> </p><br>- Check out my portfolio website <a href="https://vincentwu503.github.io">here</a>.<br><br>- I’m currently learning MongoDB Associate Developer Node.js Exam, and probably Golang/Spring Boot in the future
 
 
 ## 🌐 Socials:
